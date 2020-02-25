@@ -6,4 +6,3 @@ Also includes the following chain files for CrossMap liftover procedures:
 * from GRCh38 (NCBI, Ensembl) notation to HG38 (UCSC) notation
 * from GRCh37 (NCBI, Ensembl) notation to HG19 (UCSC) notation, with added mitochondrial chromosome
 * mitochondrial chromosome only, from GRCh37 notation (MT - NCBI, Ensembl) to HG19 notation (chrM - UCSC). 
-* 
